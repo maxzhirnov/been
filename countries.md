@@ -74,7 +74,7 @@
 - [x] RU Russia
 - [ ] SA Saudi Arabia
 - [ ] KR South Korea
-- [ ] LK Sri Lanka
+- [x] LK Sri Lanka
 - [ ] SY Syria
 - [ ] TW Taiwan
 - [ ] TJ Tajikistan
