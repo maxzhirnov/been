@@ -28,12 +28,12 @@
 - [x] NL Netherlands
 - [ ] NO Norway
 - [ ] PL Poland
-- [ ] PT Portugal
+- [x] PT Portugal
 - [ ] RO Romania
 - [ ] RS Serbia
 - [ ] SK Slovakia
 - [ ] SI Slovenia
-- [ ] ES Spain
+- [x] ES Spain
 - [ ] SE Sweden
 - [ ] CH Switzerland
 - [ ] UA Ukraine
@@ -183,7 +183,7 @@
 - [ ] SN Senegal
 - [ ] SL Sierra Leone
 - [ ] SO Somalia
-- [ ] ZA South Africa
+- [x] ZA South Africa
 - [ ] SS South Sudan
 - [ ] SD Sudan
 - [ ] SZ Swaziland
