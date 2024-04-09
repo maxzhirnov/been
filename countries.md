@@ -54,7 +54,7 @@
 - [ ] IR Iran
 - [ ] IQ Iraq
 - [x] IL Israel
-- [ ] JP Japan
+- [x] JP Japan
 - [ ] JO Jordan
 - [ ] KZ Kazakhstan
 - [ ] KW Kuwait
